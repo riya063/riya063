@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mrawat8186@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q7M80BufRqY5eJ-RECZyOKvzq3tQszjP/view?usp=drive_link](https://drive.google.com/file/d/1Q7M80BufRqY5eJ-RECZyOKvzq3tQszjP/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1P1ET9FZdy9X7Ex66bsucZZ5AIM4Y9GHB?usp=drive_link](https://drive.google.com/drive/folders/1P1ET9FZdy9X7Ex66bsucZZ5AIM4Y9GHB?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya063&show_icons=true&locale=en" alt="riya063" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya063&" alt="riya063" /></p>
-
