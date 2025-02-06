@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=riya063" alt="riya063"](https://camo.githubusercontent.com/361449d715330d0cc1a1af6d72ed8be6744d8c3d9719a8b76836714194e3e419/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966) /></a> </p>
 
-- 🔭 I’m currently working on **cloud chat application**
+- 🔭 I’m currently working on **Serverless Application**
 
-- 🌱 I’m currently learning **REACT , MERN**
+- 🌱 I’m currently learning **Linux,Bash,Cloud Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/riya063?tab=repositories](https://github.com/riya063?tab=repositories)
 
